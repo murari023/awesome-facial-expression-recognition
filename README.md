@@ -1,4 +1,4 @@
-# awesome-facial-expression-recognition (FER)
+# awesome-facial-expression-recognition (FER) [Under Construction]
 A curated list of papers, projects, code and datasets for facial expression recognition (FER)
 
 ## Contents
@@ -26,7 +26,7 @@ A curated list of papers, projects, code and datasets for facial expression reco
 ### 2019 Papers
 
 ### 2018 Papers
-- [2019 - FgGAN A Cascaded Unpaired Learning for Background Estimation and Foreground Segmentation](https://ieeexplore.ieee.org/abstract/document/8659177)
+
 
 ## Non-Deep Learning based Papers
 
